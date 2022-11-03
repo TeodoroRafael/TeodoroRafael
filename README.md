@@ -1,9 +1,9 @@
-### Hi there 👋
+# **RAFAEL TEODORO**
 
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=TeodoroRafael&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=TeodoroRafael&show_icons=true&theme=dark&custom_title=GitHub Stats"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -12,6 +12,9 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=TeodoroRafael&show_icons=true" />
 </picture>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroRafael&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -24,3 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,django,r,mysql,github,aws" />
+  </a>
+</p>
