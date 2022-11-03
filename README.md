@@ -3,7 +3,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=TeodoroRafael&show_icons=true&theme=dark&custom_title=GitHub Stats"
+  srcset="https://github-readme-stats.vercel.app/api?username=TeodoroRafael&show_icons=true&theme=dark&custom_title=Stats"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -14,7 +14,7 @@
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroRafael&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroRafael&layout=compact&theme=dark)](https://github.com/TeodoroRafael/github-readme-stats)
 
 Here are some ideas to get you started:
 
