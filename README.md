@@ -9,14 +9,14 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=TeodoroRafael&show_icons=true&theme=dark&line_height=20&card_width=500&count_private=true&custom_title=Rafael's+GitHub+Stats"
+      srcset="https://github-readme-stats.vercel.app/api?username=TeodoroRafael&show_icons=true&theme=dark&line_height=20&card_width=450&count_private=true&custom_title=Rafael's+GitHub+Stats"
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroRafael&layout=compact&theme=dark&card_width=400"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroRafael&layout=compact&theme=dark&card_width=350"
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroRafael&layout=compact" />
